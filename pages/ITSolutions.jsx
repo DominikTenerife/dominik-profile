@@ -46,7 +46,7 @@ export default function ITSolutions () {
                     <li class="skill-item">VCS</li>
                     <li class="skill-item">TDD</li>
                     <li class="skill-item">Cloud</li>
-                    <li class="skill-item">Conteinarizations</li>
+                    <li class="skill-item">Containers</li>
                     <li class="skill-item">Secure Design</li>
                     <li class="skill-item">Clean Code</li>
                 </ul>

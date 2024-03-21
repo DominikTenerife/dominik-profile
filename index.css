@@ -238,6 +238,11 @@ h4 {
     border-left: 1px solid gray;
 }
 
+.page-container ul {
+    margin: 0;
+    padding:0;
+}
+
 .my-picture {
     width: 150px;
     border-radius: 50%;
@@ -629,7 +634,7 @@ h4 {
 
     .grid-container {
         display: grid;
-        grid-template-columns: 25% 40% 20%; 
+        grid-template-columns: 35% 40% 20%; 
         grid-gap: 3vw; 
      }
     
