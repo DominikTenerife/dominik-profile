@@ -46,7 +46,7 @@ export default function SoftEng() {
   
 
     return (
-        <div className="page-container">
+        <div >
             <h2>Software Engineering Professional Certificates</h2>
 
             <div className="grid-container">
