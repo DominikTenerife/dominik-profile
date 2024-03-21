@@ -1,0 +1,13 @@
+.chart {width: 90vw;}
+
+/* In your CSS file */
+.chart-container {
+    display: block;
+  }
+  
+  @media (max-width: 800px) {
+    .chart-container {
+      display: none;
+    }
+  }
+  
