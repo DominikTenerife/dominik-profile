@@ -2,8 +2,18 @@
 import amigosImg from "../images/amigos-img.jpg"
 import gptLanguagesImg from "../images/gptlanguages-img.jpg"
 import restaurantBotImg from "../images/restaurant-img.jpg"
+import textSummaryImg from "../images/text-summary.jpg"
 
 const projectData = [
+    {
+        name: "Large text summary and analyze",
+        url: "https://summary.archipelagosolutions.eu",
+        git: "https://github.com/DominikTenerife/text-summarize-front",
+        image: textSummaryImg,
+        description: "Large text summary app. Backend: ExpressJS, Langchain, Postgres vector database for embeddings. Frontend: React. Deployed to Azure.",
+        id: 8
+    },
+
     {
         name: "Restaurant AI Assistant",
         url: "https://restaurant.archipelagosolutions.eu",

@@ -1,5 +1,13 @@
 const certificatesData = [
   {
+    id: 20240525,
+    type: "certificate",
+    name: "Microsoft Certified: Azure Administrator Associate",
+    description: "Certificate obtained by passing proctored examination",
+    link: "https://learn.microsoft.com/api/credentials/share/en-us/DominikPiskorski-6222/EAC9B950B207FA47?sharingId=845F97E9AA4FCE87"
+  },
+
+  {
     id: 13,
     type: "certificate",
     name: "IBM DevOps and Software Engineering Professional Certificate",
