@@ -11,7 +11,7 @@ export default function Contact() {
 
             <div className="contact-container">
                 <h3>The easiest way to get quick answer from me is an e-mail:</h3>
-                <a href="mailto:dpiskorski1@icloud.com" class="btn" title="Send me an email">dpiskorski1@icloud.com</a>
+                <a href="mailto:dominik@archipelagosolutions.eu" class="btn" title="Send me an email">dominik@archipelagosolutions.eu</a>
 
                 <h3>You can also learn more about me and my work through my social channels:</h3>
 

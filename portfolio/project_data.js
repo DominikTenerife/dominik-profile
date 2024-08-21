@@ -27,7 +27,7 @@ const projectData = [
         url: "https://amigos.archipelagosolutions.eu",
         git: "https://github.com/DominikTenerife/amigos-front.git",
         image: amigosImg,
-        description: "Converse in foreign language with interesting AI characters in different situations and context. Backend: ExpressJS. Frontend: React. Prompt Engineering. PWA deployed to Azure cloud.",
+        description: "Converse in foreign language with interesting AI characters in different situations and context. Backend: ExpressJS + OPENAI. Frontend: React.  PWA deployed to Azure.",
         id: 6
 
     },
@@ -36,7 +36,7 @@ const projectData = [
         url: "https://gptlanguages.archipelagosolutions.eu",
         git: "https://github.com/DominikTenerife/gpt-languages.git",
         image: gptLanguagesImg,
-        description: "Learn foreign language with AI support. Backend: ExpressJS. Frontend: React. Prompt Engineering. PWA deployed to Azure cloud.",
+        description: "Learn foreign language with AI support. Backend: Python (Flask) + Mistral AI API. Frontend: React.  PWA deployed to Azure.",
         id: 7
 
     },
