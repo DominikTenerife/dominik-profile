@@ -16,6 +16,7 @@ export default function Dominik () {
                 <h3>Work experience</h3>
                 <ul>
                     <li>Founder, <a href="/" target="_blank">Archipelago Solutions</a>: 09/2022 - still</li>
+                    <li>Software Development Consultant, Frontend Developer <a href="https://www.pentimenti.ai/" target="_blank" alt="website of Pentimenti.AI">Pentimenti.AI, Danemark</a> : 10/2024 to 03/2025</li>
                     <li>President, Managing Director, <a href="https://www.trzuskawica.pl/o-firmie/?lang=en" target="_blank" alt="website of Trzuskawica lime and limestone plant">Trzuskawica S.A, Poland</a> (subsidiary of CRH plc): 01/2019 to 07/2021</li>
                     <li>Board Member, Commercial Director, <a href="https://ozarow.com.pl/" target="_blank" alt="website of Ozarow cement company Poland">Cement Ożarów S.A. Poland </a>(subsidiary of CRH plc): 09/2016 to 12/2018</li>
                     <li>VP Commercial <a href="https://www.trzuskawica.pl/o-firmie/?lang=en" target="_blank" alt="website of Trzuskawica lime and limestone plant">Trzuskawica S.A, Poland</a> (subsidiary of CRH plc): 09/2014 to 08/2016</li>
