@@ -15,13 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3 # Updated to the latest version
         with:
           submodules: true
           lfs: false
 
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3 # Updated to the latest version
         with:
           node-version: 16 # Use the desired Node.js version
 
@@ -31,8 +31,11 @@ jobs:
       - name: Build the app
         run: npm run build
       
+      - name: Debug - List build directory contents
+        run: ls -alh dist # Update with the actual path to your build artifacts
+
       - name: Archive artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3 # Updated to the latest version
         with:
           name: app-artifacts
           path: dist # Update with the actual path to your build artifacts
